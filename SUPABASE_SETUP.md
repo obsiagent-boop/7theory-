@@ -14,11 +14,11 @@ Add these separately in Cloudflare:
 
 `SUPABASE_URL=https://bzjehlodtsoohslmldsd.supabase.co`
 
-`SUPABASE_SECRET_KEY=<newly rotated sb_secret_... key>`
+`SUPABASE_SECRET_KEY=<sb_secret_YvPW4X74YxCxYHfoCVAcBg_lHkEuifN>`
 
 Optional for future browser-side Supabase use:
 
-`SUPABASE_PUBLISHABLE_KEY=<sb_publishable_... key>`
+`SUPABASE_PUBLISHABLE_KEY=<sb_publishable_IxVfj7zuIdajjtYscIa8ug_VnykTiSi>`
 
 The current site does not send the publishable key to the browser because the public forms are routed through the server-side Worker.
 
