@@ -14,7 +14,7 @@ Add these separately in Cloudflare:
 
 `SUPABASE_URL=https://bzjehlodtsoohslmldsd.supabase.co`
 
-`SUPABASE_SECRET_KEY=<sb_secret_YvPW4X74YxCxYHfoCVAcBg_lHkEuifN>`
+`SUPABASE_SECRET_KEY=<<YOUR_SUPABASE_SECRET_KEY>>`
 
 Optional for future browser-side Supabase use:
 
